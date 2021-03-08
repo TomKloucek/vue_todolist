@@ -1,24 +1,5 @@
 # vue_todolist
 
-## Project setup
-```
-npm install
-```
+This repository is my first project in Vue.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+it is deployed here: https://affectionate-nightingale-9d3ac8.netlify.app/#/
